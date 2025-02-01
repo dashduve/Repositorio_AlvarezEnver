@@ -35,22 +35,9 @@ Sistema de gestión hotelera desarrollado con React, TypeScript y Material-UI. P
 - `npm run build`: Construye la aplicación para producción
 - `npm run lint`: Ejecuta el linter
 - `npm run preview`: Previsualiza la versión de producción
+![image](https://github.com/user-attachments/assets/af39f9f1-38c1-4ace-b094-396353aa0117)
 
-hotel-management/
-├── src/
-│   ├── components/
-│   │   ├── ClientManagement.tsx
-│   │   ├── RoomManagement.tsx
-│   │   ├── ReservationManagement.tsx
-│   │   ├── Navbar.tsx
-│   │   └── Layout.tsx
-│   ├── interfaces/
-│   │   └── index.ts
-│   ├── services/
-│   │   └── localStorage.ts
-│   ├── utils/
-│   │   └── index.ts
-│   ├── App.tsx
-│   └── main.tsx
-├── package.json
-└── README.md
+![image](https://github.com/user-attachments/assets/dba03bf6-5596-4037-abe8-b29155d098a8)
+
+![image](https://github.com/user-attachments/assets/57e928a0-90cf-4e67-bc42-7bf35839a770)
+
